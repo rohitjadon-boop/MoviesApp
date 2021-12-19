@@ -1,0 +1,54 @@
+.movies-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4rem;
+    padding-top: 2rem;
+    background-color: #0f0f0f;
+}
+
+.pagination {
+    background-color: #0f0f0f;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+h6 {
+    /* height: 3rem;
+    width: 8rem; */
+    /* overflow-y: auto; */
+    position: absolute;
+    top: 0;
+    color: #FA8072;
+    left: 8px;
+}
+
+/* h6::-webkit-scrollbar {
+    display: none;
+} */
+
+.movies {
+    position: relative;
+}
+
+.button {
+    width: 10rem;
+    position: absolute;
+    top: 45%;
+    left: calc(50% - 30%);
+    cursor: pointer;
+}
+
+img:hover{
+    backdrop-filter: blur(10px);
+    filter: blur(2px);
+    transition: 0.5s ease;
+}
+
+span {
+    font-size: larger;
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.header-cont {
+    height: 50vh;
+    width: 100vw;
+    position: relative;
+}
+
+.header-img {
+    height: 50vh;
+    width: 100vw;
+}
+
+.movie-overview {
+    position: absolute;
+    top: 85%;
+    height: 2rem;
+    overflow: hidden;
+    color: #66CDAA;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}

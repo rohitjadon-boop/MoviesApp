@@ -1,0 +1,10 @@
+.nav-cont > * {
+    margin-right: 2rem;
+    font-size: 2rem;
+    color: #4863A0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-cont {
+    background-color: #373737;
+}
