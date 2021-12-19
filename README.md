@@ -19,3 +19,5 @@
 # Project Uses Bootstrap For Styling Part And Grids
 
 # One Can Filter Movies According The Genre Provided 
+
+# The Project Also includes The Routing Part Using React-Router-Dom
